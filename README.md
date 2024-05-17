@@ -5,6 +5,6 @@ Meu nome é Isabela Karine
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 -Você pode entrar em contato comigo 📫
-0000109636640XSP@al;educacao.sp.gov.br
+0000109636640XSP@al.educacao.sp.gov.br
 
 @_isabelacb
